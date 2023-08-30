@@ -1,1 +1,1 @@
-This repo is for alx shell scripting project
+Script that prints the absolute path name of the current working directory
