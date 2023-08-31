@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -AF1 | sort -n -k1.1,1d -k1.2,1d -k1.3,1d -k2n,2 -t'.' | tr '\n' ',' | sed '/,$/ s//\n/'
+#!/bi/bash
+ls -xamp
